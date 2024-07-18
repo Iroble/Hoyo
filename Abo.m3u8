@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="UniversalTV.so" tvg-logo="http://somali-tv.com/images/universal.png" group-title="Somali",Universal Somali TV
+https://cdn.mediavisionuk.com:9000/universaltvhd/index.m3u8
+#EXTINF:-1 tvg-id="HornCable.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="Somali",Horn Cable  
+https://ap02.iqplay.tv:8082/iqb8002/h6tv/chunks.m3u8
+#EXTINF:-1 tvg-id="SLNTV.so" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SLNTV_Logo.svg/2048px-SLNTV_Logo.svg.png" group-title="Somali",SLNTV 
+https://gineu9.bozztv.com/gin-dvrfl05/gin-somaliland/tracks-v1a1/mono.m3u8?nimblesessionid=5848699&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIzIDY6Mjc6NDYgUE0maGFzaF92YWx1ZT1IOWlSNlpoS0oxY2FjS2VEUCtCTUNnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#EXTINF:-1 tvg-id="SaabTV.so" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="Somali",Saab TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="Somali",SNTV 
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-id="KalsanTV.uk" tvg-logo="https://i.imgur.com/AqyY1bR.png" group-title="Somali",Kalsan TV 
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1 tvg-id="Dacwa.uk" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dacwa-tv-so.png" group-title="Somali",Dacwa  
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
